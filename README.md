@@ -506,7 +506,7 @@ A 3% accuracy improvement (81% → 84%) is only valuable if it translates to:
 
 **[Carlos Martinez]**
 
-- LinkedIn: [Your Profile](www.linkedin.com/in/carlscamt)
+- LinkedIn: (www.linkedin.com/in/carlscamt)
 
 ---
 
@@ -516,16 +516,6 @@ A 3% accuracy improvement (81% → 84%) is only valuable if it translates to:
 - **Methodology**: CRISP-DM framework
 - **Tools**: scikit-learn, XGBoost, pandas teams
 - **Inspiration**: IBM Watson Analytics best practices
-
----
-
-## 📧 Contact & Support
-
-Have questions? Found an issue?
-
-- Open a GitHub issue for bugs
-- Start a discussion for questions
-- Email: [your.email@example.com](mailto:carlscamt@gmail.com)
 
 ---
 
