@@ -255,11 +255,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👤 Author
 
-**[Your Name]**
+**Carlos Martinez**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+  
 ## 🙏 Acknowledgments
 
 - Dataset: [Kaggle - BlastChar](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
