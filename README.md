@@ -245,19 +245,10 @@ jupyter notebook telco_churn_analysis.ipynb
 3. **Business Context > Accuracy**: Precision-recall trade-offs depend on cost structure
 4. **Interpretability is Key**: Feature importance drives actionable insights
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Carlos Martinez**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your Profile](www.linkedin.com/in/carlscamt)
   
 ## 🙏 Acknowledgments
 
@@ -266,5 +257,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Inspiration: IBM Watson Analytics sample datasets
 
 ---
-
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
